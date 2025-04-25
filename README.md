@@ -22,6 +22,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+-LingoLoop
+A simple language learning app that teaches 3–5 new words daily through flashcards and short quizzes.
+Users can hear pronunciation, view example sentences, and save tricky words for later review.
+Includes XP points, streaks, and a progress tracker to build consistency.
+
+-SnapVerse
+A photo-sharing app where users can post one photo per day during a random 2-minute window.
+Captures both front and back camera to show real moments.
+Users can view past posts, react with emojis, and follow friends.
 
 ## Notes
 
